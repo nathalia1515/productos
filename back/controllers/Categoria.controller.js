@@ -8,6 +8,7 @@ const addCategoria = async (req=request, res=response)=> {
 
     // const email = req.body.email;
     // const password = req.body.password;
+// pruebas
 
     const {nombre, descripcion } = req.body;
     
